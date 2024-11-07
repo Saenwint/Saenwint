@@ -1,10 +1,7 @@
 <div id="header" align="center">
-  <h1>Hi there. I'm BurntOutBlunt</h1>
-  <h3>Junior Python developer from Russia</h3>
+  <h1>Hi there!</h1>
+  <h3>Current target: Junior Python Developer</h3>
 </div>
-
-- Studing in univesity
-- Working in NIC
 
 <h3><strong>Languages and tools which i learning</strong></h3>
 
